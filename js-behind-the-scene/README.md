@@ -1,6 +1,6 @@
-# JAVASCRIPT BEHINF THE SCENES
+# JAVASCRIPT BEHIND THE SCENES
 
-## Things covered in this section
+## Things covered under this section
 
 - An High-Level Overview of JavaScript
 
